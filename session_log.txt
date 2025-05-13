@@ -1,0 +1,5 @@
+Username: student1
+Login Time: 2025-05-13 10:00:00
+Logout Time: 2025-05-13 10:45:00
+Duration: 45.00 minutes
+------------------------
